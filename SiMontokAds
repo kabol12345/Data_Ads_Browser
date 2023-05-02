@@ -72,9 +72,9 @@
 	"NativeApplovin": "72d946691a58740a",
 
 	"Bidding_Applovin_Inter": "0",
-	"Bidding_Applovin_Banner": "0",
+	"Bidding_Applovin_Banner": "1",
 	"Bidding_Applovin_Mrc": "0",
-	"Bidding_Applovin_Native": "0",
+	"Bidding_Applovin_Native": "1",
 	"Bidding_Applovin_VideoReword": "0",
 
 
@@ -91,8 +91,8 @@
 	"BannerAdmob": "0",
 	"NativeAdmob": "0",
 
-	"BannerFanAds": "1",
-	"NativeFanAds": "1",
+	"BannerFanAds": "0",
+	"NativeFanAds": "0",
 
 	"BannerApplovin": "0",
 
