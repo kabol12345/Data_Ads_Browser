@@ -69,7 +69,7 @@
 	"BannerApplovinId": "9a6b15a371a92518",
 	"MrcApplovinId": "0",
 	"VideoReword": "0",
-	"NativeApplovin": "72d946691a58740a",
+	"NativeApplovin": "675de1870de10b77",
 
 	"Bidding_Applovin_Inter": "0",
 	"Bidding_Applovin_Banner": "1",
@@ -104,8 +104,8 @@
 	"adsbrutal": "0",
 	"adsbiasa": "1",
   
-  "browser": "https://www.google.com/search?q=",
-  "browserServer": "https://yandex.com/search/?text=",
+       "browser": "https://www.google.com/search?q=",
+       "browserServer": "https://yandex.com/search/?text=",
 
 	"k1": "https://www.bing.com/search?q=",
 	"k2": "https://www.bing.com/search?q=",
