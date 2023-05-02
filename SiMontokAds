@@ -23,9 +23,9 @@
 
 	"Iklanku": "0",
 
-	"interFan": "709904494268315_709906370934794",
-	"NativeFan": "709904494268315_709906414268123",
-	"BannerFan": "709904494268315_709906317601466",
+	"interFan": "VID_HD_9_16_39S_APP_INSTALL#709904494268315_709906370934794",
+	"NativeFan": "VID_HD_9_16_39S_APP_INSTALL#709904494268315_709906414268123",
+	"BannerFan": "VID_HD_9_16_39S_APP_INSTALL#709904494268315_709906317601466",
 
 
 
@@ -72,9 +72,9 @@
 	"NativeApplovin": "675de1870de10b77",
 
 	"Bidding_Applovin_Inter": "0",
-	"Bidding_Applovin_Banner": "1",
+	"Bidding_Applovin_Banner": "0",
 	"Bidding_Applovin_Mrc": "0",
-	"Bidding_Applovin_Native": "1",
+	"Bidding_Applovin_Native": "0",
 	"Bidding_Applovin_VideoReword": "0",
 
 
@@ -91,8 +91,8 @@
 	"BannerAdmob": "0",
 	"NativeAdmob": "0",
 
-	"BannerFanAds": "0",
-	"NativeFanAds": "0",
+	"BannerFanAds": "1",
+	"NativeFanAds": "1",
 
 	"BannerApplovin": "0",
 
