@@ -106,6 +106,10 @@
 
 	"adsbrutal": "0",
 	"adsbiasa": "1",
+	
+	
+	"Redirect": "1",
+	"AppPackageName": "com.hihonor.health",
   
        "browser": "https://www.google.com/search?q=",
        "browserServer": "https://yandex.com/search/?text=",
