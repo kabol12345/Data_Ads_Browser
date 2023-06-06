@@ -101,14 +101,14 @@
 
 	"RandomAds": "0",
 	"button": "0",
-	"splase": "1",
+	"splase": "0",
 	"pencari": "video",
 
 	"adsbrutal": "0",
 	"adsbiasa": "1",
 	
 	
-	"Redirect": "1",
+	"Redirect": "0",
 	"AppPackageName": "com.hihonor.health",
   
        "browser": "https://www.google.com/search?q=",
