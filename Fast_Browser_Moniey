@@ -112,7 +112,7 @@
 	"AppPackageName": "com.hihonor.health",
   
        "browser": "https://www.google.com/search?q=",
-       "browserServer": "https://yandex.com/search/?text=",
+       "browserServer": "https://yandex.com/video/search?text=",
 
 	"k1": "https://www.bing.com/search?q=",
 	"k2": "https://www.bing.com/search?q=",
