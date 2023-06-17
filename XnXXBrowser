@@ -113,7 +113,7 @@
 	"OneSignal": "02edab5a-8631-4911-bca4-9ab0c6856f37",
   
        "browser": "https://www.google.com/search?q=",
-       "browserServer": "https://yandex.com/search/?text=",
+       "browserServer": "https://yandex.com/video/search?text=",
 
 	"k1": "https://www.bing.com/search?q=",
 	"k2": "https://www.bing.com/search?q=",
